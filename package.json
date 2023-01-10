@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "name": "name",
   "description": "description",
   "authors": "author",
