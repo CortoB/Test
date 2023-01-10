@@ -5,5 +5,7 @@
   "authors": "author",
   "version": "1.0.0",
   "main": "pathToMain",
-  "dependencies": {}
+  "dependencies": {
+    "eslint": "^8.31.0"
+  }
 }
